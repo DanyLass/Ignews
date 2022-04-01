@@ -1,0 +1,21 @@
+{
+  "id": "50fbfb03-bc35-4ec7-9e41-287ae2e3a378",
+  "uid": "aut-et-architecto",
+  "type": "my-custom-post",
+  "data": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "Revolutionize frictionless e-tailers",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Pariatur qui ut laboris irure ex. Est sunt consectetur adipisicing et nisi cupidatat esse reprehenderit. Tempor anim sunt eu sint sint do sint cupidatat veniam officia aliquip laboris nostrud magna.",
+        "spans": []
+      }
+    ]
+  }
+}
