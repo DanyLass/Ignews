@@ -2,7 +2,6 @@ import { useSession, signIn } from "next-auth/react";
 import { api } from "../../services/api";
 import { useRouter } from "next/router";
 import styles from "./styles.module.scss";
-import { stripe } from "../../services/stripe";
 import { getStripeJs } from "../../services/stripe-js";
 
 interface SubscribeButtonProps {
